@@ -9,4 +9,7 @@ public class TestB {
 	public void test2() {
 		System.out.println("Je suis la méthode 2");
 	}
+	public void test3() {
+		System.out.println("Je suis la méthode 3");
+	}
 }
